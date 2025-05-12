@@ -1,0 +1,80 @@
+Privacy Policy for NAVRE
+Effective Date:10th May, 2025
+
+This Privacy Policy explains how NAVRE ("the Bot") collects, uses, and protects your data when you use it within Discord servers. By adding or interacting with the Bot, you agree to this policy.
+
+---
+
+1. Information We Collect
+The Bot may access and temporarily process the following information only to perform its functions:
+
+•User Data: Discord user IDs, usernames, and discriminator (e.g., User#1234)
+
+•Server Data: Server (guild) IDs, channel IDs, role IDs
+
+•Message Content: Only if the server owner has enabled the Message Content Intent
+
+•Interaction Data: Reactions, role assignments, poll responses
+
+•We do not collect any personal information such as emails, IP addresses, or passwords.
+
+---
+
+2. How We Use This Information
+We use the collected information solely to:
+
+•Send welcome/leave messages
+
+•Assign roles or handle commands
+
+•Manage movie polls and announcements
+
+•Perform automated tasks as configured by server admins
+
+•We do not share, sell, or monetize any data.
+
+---
+
+3. Data Storage
+
+•Most data is temporary and stored only in memory.
+
+•Persistent data (if used) is minimal and may include configuration settings per server.
+
+•No private message content is stored unless explicitly logged (e.g., error reports, command logs).
+
+---
+
+4. Third-Party Access
+
+•No user data is shared with third parties.
+
+•All processing is done via the Discord API and within Discord servers.
+
+---
+
+5. User Rights
+If you are a user of a Discord server using this Bot, you may request:
+
+•To know what data the Bot holds about your activity (if any)
+
+•Deletion of your data (if stored)
+
+•Contact the Bot owner at the details below to submit requests.
+
+---
+
+6. Changes to This Policy
+
+•We may update this Privacy Policy at any time.
+
+•Continued use of the Bot after updates means you accept the revised policy.
+
+---
+
+7. Contact
+If you have questions or concerns about this policy, please contact:
+
+Discord: rupterbrooke_
+
+Email: takgom2@gmail.com
